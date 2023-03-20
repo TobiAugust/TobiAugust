@@ -24,8 +24,12 @@ How much I like it? (1 - garbage / 10 - passion)
 
 ## Raucht der Kopf vom Coden? Bild anklicken und Spaß haben:
 
-<p><a href="https://www.youtube.com/@pandacrewtv2023/videos"><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80">
+<p><a href="https://www.youtube.com/@pandacrewtv2023/videos"><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80" alt="YouTube">
+  </a>
+  </p>
 
 ## Socials dürfen natürlich nicht fehlen:
   
-<p><a href="https://www.instagram.com/pandacrewtv/"><img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80">
+<p><a href="https://www.instagram.com/pandacrewtv/"><img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80" alt="Instagram">
+  </a>
+  </p>
